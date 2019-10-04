@@ -1,0 +1,9 @@
+FYP README
+
+DAY
+Ambient Intensity: 1.5
+Adaptive Reinhard Auto White Middle Grey: 0.4
+
+NIGHT
+Ambient Intensity: 0.5
+Adaptive Reinhard Auto White Middle Grey: 0.15

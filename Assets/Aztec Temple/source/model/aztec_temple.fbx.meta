@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: d09e95935b8fab04bbf80f9d4b41d60a
+timeCreated: 1544565369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane.191_MeshPart0
+    100004: Plane.191_MeshPart1
+    100006: Plane.191_MeshPart2
+    100008: Plane.191_MeshPart3
+    100010: Plane.191_MeshPart4
+    100012: Plane.191_MeshPart5
+    100014: Plane.191_MeshPart6
+    100016: Plane.191_MeshPart7
+    400000: //RootNode
+    400002: Plane.191_MeshPart0
+    400004: Plane.191_MeshPart1
+    400006: Plane.191_MeshPart2
+    400008: Plane.191_MeshPart3
+    400010: Plane.191_MeshPart4
+    400012: Plane.191_MeshPart5
+    400014: Plane.191_MeshPart6
+    400016: Plane.191_MeshPart7
+    2300000: Plane.191_MeshPart0
+    2300002: Plane.191_MeshPart1
+    2300004: Plane.191_MeshPart2
+    2300006: Plane.191_MeshPart3
+    2300008: Plane.191_MeshPart4
+    2300010: Plane.191_MeshPart5
+    2300012: Plane.191_MeshPart6
+    2300014: Plane.191_MeshPart7
+    3300000: Plane.191_MeshPart0
+    3300002: Plane.191_MeshPart1
+    3300004: Plane.191_MeshPart2
+    3300006: Plane.191_MeshPart3
+    3300008: Plane.191_MeshPart4
+    3300010: Plane.191_MeshPart5
+    3300012: Plane.191_MeshPart6
+    3300014: Plane.191_MeshPart7
+    4300000: Plane.191_MeshPart0
+    4300002: Plane.191_MeshPart1
+    4300004: Plane.191_MeshPart2
+    4300006: Plane.191_MeshPart3
+    4300008: Plane.191_MeshPart4
+    4300010: Plane.191_MeshPart5
+    4300012: Plane.191_MeshPart6
+    4300014: Plane.191_MeshPart7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: board_mat
+    second: {fileID: 2100000, guid: 75789e69b22c3074b99f0d3e2c68ab92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bridge1_mat
+    second: {fileID: 2100000, guid: 30a57a14e0cbddd4c965ed4230209474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bridge2_mat
+    second: {fileID: 2100000, guid: 516c1303316f0704f9ae9cdfff30dfc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: console2_mat
+    second: {fileID: 2100000, guid: 654f704c13c941344b09b7dd019680ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: console_mat
+    second: {fileID: 2100000, guid: 3ce232d80cae7444a9886dbd0bbeb8a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: counter
+    second: {fileID: 2100000, guid: 7857d2ab8f75ac841bd4498175aee8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: counterrock
+    second: {fileID: 2100000, guid: a2b545aeff24b294685666d63990f600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dice10_mat
+    second: {fileID: 2100000, guid: e00dc18465109944da9bad80e594487d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: end_mat
+    second: {fileID: 2100000, guid: a7a9b6e52a6f2d140bd8e468f4fcf772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground_mat
+    second: {fileID: 2100000, guid: 8dd7fbc4eacf42846bc2fc9bbe42988b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplat_mat
+    second: {fileID: 2100000, guid: 120adf24afb7f78418619ed62d5830f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform1
+    second: {fileID: 2100000, guid: 2f9b69ef1b7ae5548a74080ce8bc5eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform2
+    second: {fileID: 2100000, guid: b1af04ce412957942adb3ae3bbead5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform3
+    second: {fileID: 2100000, guid: 1de0e5cb044d041419e15af4148dcc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform4
+    second: {fileID: 2100000, guid: 3ad752b61bf072a439035b5d4e48ac45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform5
+    second: {fileID: 2100000, guid: a4d00834d8912fe42a6419613371e117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform6
+    second: {fileID: 2100000, guid: ae102ecd437fa2d49a062c87cf0b9d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform7
+    second: {fileID: 2100000, guid: b89723e512a57b94b961dc38d2fd1c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform8
+    second: {fileID: 2100000, guid: 44ae5104cfab2ea459f5982ef22b7f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lastplatform9
+    second: {fileID: 2100000, guid: 9370d61d998aa6f40a3cf0bef8bbeaed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lever_mat
+    second: {fileID: 2100000, guid: d860dc9ee923c984b8f6dfde2c07414e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_mat
+    second: {fileID: 2100000, guid: 8cc814e08f87bbb4cb70fc14015a65e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railing2_mat
+    second: {fileID: 2100000, guid: fa3eaa6505cfc5546b28b2095e8f3038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railing_mat
+    second: {fileID: 2100000, guid: dfe3f49184447494688cb03ae8b7d58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skull_mat
+    second: {fileID: 2100000, guid: b5346c07486dbe44ab6f0dbd1a92e434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skullcube_mat
+    second: {fileID: 2100000, guid: 411d017d2295af7488210ab688930b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stairs_mat
+    second: {fileID: 2100000, guid: 2bb8303f4b592284aa98d62b855a891d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: target
+    second: {fileID: 2100000, guid: 9aebd6b6ce59ecd4f816206edce08f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trapdoor_mat
+    second: {fileID: 2100000, guid: 9c62d7825d5e0c5458b214b8d74f99c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_mat
+    second: {fileID: 2100000, guid: 9cf58282bde78084aa5c87c640f382ec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

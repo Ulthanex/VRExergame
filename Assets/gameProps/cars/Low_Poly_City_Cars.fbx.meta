@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 0f65addabff5d9e4088716b39e064c76
+timeCreated: 1523047294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CAR_01
+    100002: CAR_02
+    100004: CAR_03
+    100006: Car_04
+    100008: Car_05
+    100010: Car_06
+    100012: Car_07
+    100014: Car_08
+    100016: Car_09
+    100018: Car_10
+    100020: Car_11
+    100022: Car_12
+    100024: //RootNode
+    100026: Moon
+    100028: Physical_Sky_1
+    100030: Plane
+    100032: Shadow_Plane
+    100034: Sky_Null
+    100036: Sun
+    400000: CAR_01
+    400002: CAR_02
+    400004: CAR_03
+    400006: Car_04
+    400008: Car_05
+    400010: Car_06
+    400012: Car_07
+    400014: Car_08
+    400016: Car_09
+    400018: Car_10
+    400020: Car_11
+    400022: Car_12
+    400024: //RootNode
+    400026: Moon
+    400028: Physical_Sky_1
+    400030: Plane
+    400032: Shadow_Plane
+    400034: Sky_Null
+    400036: Sun
+    2300000: CAR_01
+    2300002: CAR_02
+    2300004: CAR_03
+    2300006: Car_04
+    2300008: Car_05
+    2300010: Car_06
+    2300012: Car_07
+    2300014: Car_08
+    2300016: Car_09
+    2300018: Car_10
+    2300020: Car_11
+    2300022: Car_12
+    2300024: Plane
+    3300000: CAR_01
+    3300002: CAR_02
+    3300004: CAR_03
+    3300006: Car_04
+    3300008: Car_05
+    3300010: Car_06
+    3300012: Car_07
+    3300014: Car_08
+    3300016: Car_09
+    3300018: Car_10
+    3300020: Car_11
+    3300022: Car_12
+    3300024: Plane
+    4300000: Plane
+    4300002: Car_12
+    4300004: Car_11
+    4300006: Car_10
+    4300008: Car_09
+    4300010: Car_08
+    4300012: Car_07
+    4300014: Car_06
+    4300016: Car_05
+    4300018: Car_04
+    4300020: CAR_03
+    4300022: CAR_02
+    4300024: CAR_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_01
+    second: {fileID: 2100000, guid: ef5d2cdad4b55b24cb24d003b507331a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_02
+    second: {fileID: 2100000, guid: f1e7c9c37c8d1a34ab3c81abaea0fd8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_03
+    second: {fileID: 2100000, guid: cc53549a5414d0b4bb90bc986a08dfc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_04
+    second: {fileID: 2100000, guid: 33acc0d471a604448a56915a32243677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_05
+    second: {fileID: 2100000, guid: 77be45ed8b86c8a40b44e59d75ef571c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_06
+    second: {fileID: 2100000, guid: 8e95cd1f8ea9dbe45ba14ee0c4e1a2f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_07
+    second: {fileID: 2100000, guid: 4c8888fed0078c848bf5c4055e539aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_08
+    second: {fileID: 2100000, guid: 480656693dfbfa444bda1bd1e369ef3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_09
+    second: {fileID: 2100000, guid: 48949ad6ce7605b4fb780a1fa683c5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_10
+    second: {fileID: 2100000, guid: 4bf20e07dd743ba47817321367a52d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_11
+    second: {fileID: 2100000, guid: 7a13d3a2e6fe32342be028c2fd2a33de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAR_12
+    second: {fileID: 2100000, guid: 65b4295e71b5d6046949c3efe4abc6d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 8c43255221833304b8e0c6b94056066b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

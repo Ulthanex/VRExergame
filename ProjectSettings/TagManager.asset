@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftTurn
+  - RightTurn
+  - Straight
+  - Light
+  - Destroy
+  - Vehicle
+  - RightBox
+  - LeftBox
+  - GameSave
+  - Lava
+  - Ground
+  - SkullProjectile
+  - SkeletonSwipe
+  - Ghost
+  - Skeleton
+  - SkeletonLich
+  - GhostS
+  - SkeletonS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - VehicleTrigger
+  - PlayerTrigger
+  - Player
+  - Terrain
+  - Vehicle
+  - VehicleDestroyer
+  - PoliceTrigger
+  - TurnTrigger
+  - Ghost
+  - Barriers
+  - StereoRender_Ignore
+  - Lava
+  - Debris
+  - DamageTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
